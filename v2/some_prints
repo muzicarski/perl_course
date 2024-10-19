@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+
+$meal = "brontosaurus steak" ;
+$eater = "Johnnatan ate a $meal\n";
+
+print $eater;
+
+$other_eater = "Johnnatan ate a " . $meal;
+
+print $other_eater;
+print '\n', "\n";

@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+$fred = 'hello';
+print "My name is \$fred\n";
+print 'My name is $fred ' . "\n";
+
+print "====================\n";
+
+$what = "brontosaurus steak";
+$n = 3;
+
+print "fred ate $n $whats\n";
+print "fred ate $n ${what}s\n";
+print 'fred ate ' . $n . ' ' .$what . "s\n"
+    
+    

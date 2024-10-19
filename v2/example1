@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+print "\uzAsAdA\n";
+print "56jj" * '24#2';
+print "\U these are lowercase letters in code \E and these are after \\E escape sequence\n";
+print "Contatenate this with " . "THIS\n";
